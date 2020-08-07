@@ -39,6 +39,26 @@ Finally, spent time writing tests for a LinkedList class, then implemented the f
 
 I spent 7.5 hours studying CS today, which is much longer than I expected to take. Hopefully this speeds up as I spend time on it.
 
+#### August 6th, 2020
+Practice Problems:
+
+[Minimum Steps in an Infinite Grid](https://www.interviewbit.com/problems/min-steps-in-infinite-grid/)
+[Partitions](https://www.interviewbit.com/problems/partitions/)— didn't finish this due to a series of edge cases— it seems like I can get the answer, but its not written in the best way (due to the edge cases)
+
+Readings:
+
+[Google Code Review Process](https://github.com/google/eng-practices)
+[Google Engineering Practices](https://arxiv.org/ftp/arxiv/papers/1702/1702.01715.pdf?utm_source=ponyfoo+weekly&utm_medium=email&utm_campaign=163)
+
+Today was difficult in terms of interview practice, due to the large amount of meetings I had today.
 
 
+#### August 7th, 2020
+Today is a Friday— I suspect this may affect my productivity
+
+Starting by finishing reading [Google Engineering Practices](https://arxiv.org/ftp/arxiv/papers/1702/1702.01715.pdf?utm_source=ponyfoo+weekly&utm_medium=email&utm_campaign=163)
+
+Next, I started working on Google's [Tech Dev Guide](https://techdevguide.withgoogle.com/paths/foundational/) problems
+
+First off— [Find longest word in dictionary that is a subsequence of a given string](https://techdevguide.withgoogle.com/paths/foundational/find-longest-word-in-dictionary-that-subsequence-of-given-string/#code-challenge)
 
