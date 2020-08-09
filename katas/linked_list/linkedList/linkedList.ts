@@ -1,9 +1,4 @@
-class Node<T> {
-	public constructor(
-		public value: T | null = null,
-		public next: Node<T> = null
-	) {}
-}
+import { Node } from '../node';
 
 export class LinkedList<T> {
 	private root?: Node<T> = null;

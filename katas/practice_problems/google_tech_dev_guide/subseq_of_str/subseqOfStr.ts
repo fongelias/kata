@@ -1,3 +1,6 @@
+// # Problem
+// https://techdevguide.withgoogle.com/paths/foundational/find-longest-word-in-dictionary-that-subsequence-of-given-string/#code-challenge
+
 export const subseqOfStr = (str: string, dict: string[]): string => {
 	const substrExists = (word: string): boolean => {
 		let wordIdx = 0;

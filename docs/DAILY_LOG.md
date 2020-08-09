@@ -62,3 +62,10 @@ Next, I started working on Google's [Tech Dev Guide](https://techdevguide.withgo
 
 First off— [Find longest word in dictionary that is a subsequence of a given string](https://techdevguide.withgoogle.com/paths/foundational/find-longest-word-in-dictionary-that-subsequence-of-given-string/#code-challenge)
 
+Turns out I found an asymptotically optimal solution, at O(N\*W), but there can be more optimal solutions by using a specialized data structure. They mention that this is a "successor-value" problem, which is something that I will look into at a later date.
+
+Next, I implemented floyd's cycle detection algorithm
+
+
+#### August 9th, 2020
+Today is a Sunday— I decided to do a bit of lighter studying over the weekend. I'm starting with practicing the [Longest Increasing Subsequence algorithm](https://www.techiedelight.com/longest-increasing-subsequence/)
